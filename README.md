@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evan Smart, a Co-Founder and CEO at 9AppSoft 
-- 👀 9AppSoft is an NiTA award winning innovation companyb 
+- 👀 9AppSoft is an NiTA award winning innovation companyb  
 - 🌱 9AppSoft helps empower organisations in their digital transformation 
 - 💞️ Reach out and let empower your businesses
 - 📫 How to reach us ...
