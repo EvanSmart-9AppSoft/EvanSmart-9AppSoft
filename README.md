@@ -1,4 +1,4 @@
- - 👋 Hi, I’m Evan Smart, a Co-Founder and CEO at 9AppSoft  
+ - 👋 Hi, I’m Agbaire Evi Ete, a Principal Software Developer at 9AppSoft  
 - 👀 9AppSoft is an NiTA award winning innovation companyb  
 - 🌱 9AppSoft helps empower organisations in their digital transformation 
 - 💞️ Reach out and let empower your businesses
@@ -7,6 +7,6 @@
 - ⚡ info@9appsoft.com ... 
 
 <!---
-Evan Smart of 9AppSoft/EvanSmart-9AppSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agbaire of 9AppSoft/Agbaire-9AppSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
